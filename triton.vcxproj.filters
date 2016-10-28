@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\api\api.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\arch\architecture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\arch\bitsVector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\arch\immediate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\arch\instruction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\arch\memoryAccess.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\arch\operandWrapper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\arch\register.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\arch\x86\x8664Cpu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\arch\x86\x86Cpu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\arch\x86\x86Semantics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\arch\x86\x86Specifications.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\ast\ast.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\ast\astDictionaries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\ast\astGarbageCollector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\ast\representations\astPythonRepresentation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\ast\representations\astRepresentation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\ast\representations\astSmtRepresentation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\ast\z3\tritonToZ3Ast.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\ast\z3\z3Result.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\ast\z3\z3ToTritonAst.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\init.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\modules\astCallbacks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\modules\tritonCallbacks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\namespaces\initArchNamespace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\namespaces\initAstNodeNamespace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\namespaces\initAstRepresentationNamespace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\namespaces\initCallbackNamespace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\namespaces\initCpuSizeNamespace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\namespaces\initElfNamespace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\namespaces\initOperandNamespace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\namespaces\initRegNamespace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\namespaces\initSymExprNamespace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\namespaces\initSymOptiNamespace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\namespaces\initSyscallNamespace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\namespaces\initVersionNamespace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\namespaces\initX86OpcodesNamespace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\namespaces\initX86PrefixesNamespace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\objects\pyAstNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\objects\pyBitvector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\objects\pyElf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\objects\pyElfDynamicTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\objects\pyElfHeader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\objects\pyElfProgramHeader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\objects\pyElfRelocationTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\objects\pyElfSectionHeader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\objects\pyElfSymbolTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\objects\pyImmediate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\objects\pyInstruction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\objects\pyMemoryAccess.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\objects\pyPathConstraint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\objects\pyRegister.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\objects\pySolverModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\objects\pySymbolicExpression.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\objects\pySymbolicVariable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\pyXFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\bindings\python\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\callbacks\callbacks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\engines\solver\solverEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\engines\solver\solverModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\engines\symbolic\pathConstraint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\engines\symbolic\pathManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\engines\symbolic\symbolicEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\engines\symbolic\symbolicExpression.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\engines\symbolic\symbolicOptimization.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\engines\symbolic\symbolicSimplification.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\engines\symbolic\symbolicVariable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\engines\taint\taintEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\format\abstractBinary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\format\elf\elf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\format\elf\elfDynamicTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\format\elf\elfHeader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\format\elf\elfProgramHeader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\format\elf\elfRelocationTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\format\elf\elfSectionHeader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\format\elf\elfSymbolTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\format\memoryMapping.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\os\unix\syscallNumberToString.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\utils\coreUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\abstractBinary.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\api.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\architecture.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\ast.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\astDictionaries.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\astEnums.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\astGarbageCollector.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\astPythonRepresentation.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\astRepresentation.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\astRepresentationInterface.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\astSmtRepresentation.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\astVisitor.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\binaryInterface.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\bitsVector.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\callbacks.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\coreUtils.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\cpuInterface.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\cpuSize.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\elf.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\elfDynamicTable.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\elfEnums.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\elfHeader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\elfProgramHeader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\elfRelocationTable.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\elfSectionHeader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\elfSymbolTable.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\exceptions.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\externalLibs.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\immediate.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\instruction.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\memoryAccess.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\memoryMapping.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\operandInterface.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\operandWrapper.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\pathConstraint.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\pathManager.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\pythonBindings.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\pythonObjects.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\pythonUtils.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\pythonXFunctions.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\register.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\solverEngine.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\solverModel.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\symbolicEngine.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\symbolicEnums.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\symbolicExpression.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\symbolicOptimization.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\symbolicSimplification.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\symbolicVariable.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\syscalls.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\taintEngine.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\tritonToZ3Ast.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\tritonTypes.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\unix.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\version.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\version.hpp.in">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\x8664Cpu.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\x86Cpu.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\x86Semantics.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\x86Specifications.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\z3Result.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\includes\z3ToTritonAst.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5B28A7BD-3ADE-33E0-A040-3EB2B436934A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{22F18818-171A-3A8E-925D-B1B25D1FEB2E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,27 @@
+# CMake generation dependency list for this directory.
+C:/Users/Hachno/Documents/Visual Studio 2015/Projects/Triton/CMakeLists.txt
+C:/Users/Hachno/Documents/Visual Studio 2015/Projects/Triton/build/CMakeFiles/3.7.0-rc2/CMakeSystem.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/Hachno/Documents/Visual Studio 2015/Projects/Triton/build/CMakeFiles/3.7.0-rc2/CMakeCCompiler.cmake
+C:/Users/Hachno/Documents/Visual Studio 2015/Projects/Triton/build/CMakeFiles/3.7.0-rc2/CMakeCXXCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/Platform/Windows-MSVC.cmake
+C:/Users/Hachno/Documents/Visual Studio 2015/Projects/Triton/build/CMakeFiles/3.7.0-rc2/CMakeRCCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/FindBoost.cmake
+C:/Users/Hachno/Documents/Visual Studio 2015/Projects/Triton/src/libtriton/includes/version.hpp.in
+C:/Users/Hachno/Documents/Visual Studio 2015/Projects/Triton/src/scripts/setup.py.in
+C:/Users/Hachno/Documents/Visual Studio 2015/Projects/Triton/src/scripts/libTriton_units_testing.py.in

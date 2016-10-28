@@ -1,0 +1,4 @@
+C:/Users/Hachno/Documents/Visual Studio 2015/Projects/Triton/build/CMakeFiles/triton.dir
+C:/Users/Hachno/Documents/Visual Studio 2015/Projects/Triton/build/CMakeFiles/INSTALL.dir
+C:/Users/Hachno/Documents/Visual Studio 2015/Projects/Triton/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Hachno/Documents/Visual Studio 2015/Projects/Triton/build/CMakeFiles/ZERO_CHECK.dir

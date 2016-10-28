@@ -1,0 +1,222 @@
+﻿  Building Custom Rule C:/Users/Hachno/Documents/Visual Studio 2015/Projects/Triton/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\build\CMakeFiles\generate.stamp is up-to-date.
+  api.cpp
+  architecture.cpp
+  bitsVector.cpp
+  immediate.cpp
+  instruction.cpp
+  memoryAccess.cpp
+  operandWrapper.cpp
+  register.cpp
+  x8664Cpu.cpp
+C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/cpp_int/misc.hpp(66): warning C4800: 'const boost::multiprecision::limb_type': forcing value to bool 'true' or 'false' (performance warning)
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/number.hpp(585): note: see reference to function template instantiation 'void boost::multiprecision::backends::eval_convert_to<T,512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void>(R *,const boost::multiprecision::backends::cpp_int_backend<512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void> &) noexcept' being compiled
+          with
+          [
+              T=bool,
+              R=bool
+          ]
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/number.hpp(601): note: see reference to function template instantiation 'void boost::multiprecision::number<boost::multiprecision::backends::cpp_int_backend<512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void>,boost::multiprecision::et_off>::convert_to_imp<T>(T *) const' being compiled
+          with
+          [
+              T=bool
+          ]
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/number.hpp(601): note: see reference to function template instantiation 'void boost::multiprecision::number<boost::multiprecision::backends::cpp_int_backend<512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void>,boost::multiprecision::et_off>::convert_to_imp<T>(T *) const' being compiled
+          with
+          [
+              T=bool
+          ]
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\arch\x86\x8664Cpu.cpp(1124): note: see reference to function template instantiation 'T boost::multiprecision::number<boost::multiprecision::backends::cpp_int_backend<512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void>,boost::multiprecision::et_off>::convert_to<bool>(void) const' being compiled
+          with
+          [
+              T=bool
+          ]
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\arch\x86\x8664Cpu.cpp(1124): note: see reference to function template instantiation 'T boost::multiprecision::number<boost::multiprecision::backends::cpp_int_backend<512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void>,boost::multiprecision::et_off>::convert_to<bool>(void) const' being compiled
+          with
+          [
+              T=bool
+          ]
+C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/cpp_int/misc.hpp(70): warning C4800: 'const boost::multiprecision::limb_type': forcing value to bool 'true' or 'false' (performance warning)
+C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/cpp_int/misc.hpp(70): warning C4804: '+=': unsafe use of type 'bool' in operation
+C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/cpp_int/misc.hpp(70): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/cpp_int/misc.hpp(56): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/cpp_int/misc.hpp(76): note: see reference to function template instantiation 'Integer boost::multiprecision::backends::negate_integer<R>(Integer,const boost::mpl::false_ &) noexcept' being compiled
+          with
+          [
+              Integer=bool,
+              R=bool
+          ]
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/number.hpp(585): note: see reference to function template instantiation 'void boost::multiprecision::backends::eval_convert_to<T,512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void>(R *,const boost::multiprecision::backends::cpp_int_backend<512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void> &) noexcept' being compiled
+          with
+          [
+              T=bool,
+              R=bool
+          ]
+  x86Cpu.cpp
+C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/cpp_int/misc.hpp(66): warning C4800: 'const boost::multiprecision::limb_type': forcing value to bool 'true' or 'false' (performance warning)
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/number.hpp(585): note: see reference to function template instantiation 'void boost::multiprecision::backends::eval_convert_to<T,512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void>(R *,const boost::multiprecision::backends::cpp_int_backend<512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void> &) noexcept' being compiled
+          with
+          [
+              T=bool,
+              R=bool
+          ]
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/number.hpp(601): note: see reference to function template instantiation 'void boost::multiprecision::number<boost::multiprecision::backends::cpp_int_backend<512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void>,boost::multiprecision::et_off>::convert_to_imp<T>(T *) const' being compiled
+          with
+          [
+              T=bool
+          ]
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/number.hpp(601): note: see reference to function template instantiation 'void boost::multiprecision::number<boost::multiprecision::backends::cpp_int_backend<512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void>,boost::multiprecision::et_off>::convert_to_imp<T>(T *) const' being compiled
+          with
+          [
+              T=bool
+          ]
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\arch\x86\x86Cpu.cpp(895): note: see reference to function template instantiation 'T boost::multiprecision::number<boost::multiprecision::backends::cpp_int_backend<512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void>,boost::multiprecision::et_off>::convert_to<bool>(void) const' being compiled
+          with
+          [
+              T=bool
+          ]
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\arch\x86\x86Cpu.cpp(895): note: see reference to function template instantiation 'T boost::multiprecision::number<boost::multiprecision::backends::cpp_int_backend<512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void>,boost::multiprecision::et_off>::convert_to<bool>(void) const' being compiled
+          with
+          [
+              T=bool
+          ]
+C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/cpp_int/misc.hpp(70): warning C4800: 'const boost::multiprecision::limb_type': forcing value to bool 'true' or 'false' (performance warning)
+C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/cpp_int/misc.hpp(70): warning C4804: '+=': unsafe use of type 'bool' in operation
+C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/cpp_int/misc.hpp(70): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/cpp_int/misc.hpp(56): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/cpp_int/misc.hpp(76): note: see reference to function template instantiation 'Integer boost::multiprecision::backends::negate_integer<R>(Integer,const boost::mpl::false_ &) noexcept' being compiled
+          with
+          [
+              Integer=bool,
+              R=bool
+          ]
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/number.hpp(585): note: see reference to function template instantiation 'void boost::multiprecision::backends::eval_convert_to<T,512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void>(R *,const boost::multiprecision::backends::cpp_int_backend<512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void> &) noexcept' being compiled
+          with
+          [
+              T=bool,
+              R=bool
+          ]
+  x86Semantics.cpp
+C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/cpp_int/misc.hpp(66): warning C4800: 'const boost::multiprecision::limb_type': forcing value to bool 'true' or 'false' (performance warning)
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/number.hpp(585): note: see reference to function template instantiation 'void boost::multiprecision::backends::eval_convert_to<T,512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void>(R *,const boost::multiprecision::backends::cpp_int_backend<512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void> &) noexcept' being compiled
+          with
+          [
+              T=bool,
+              R=bool
+          ]
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/number.hpp(601): note: see reference to function template instantiation 'void boost::multiprecision::number<boost::multiprecision::backends::cpp_int_backend<512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void>,boost::multiprecision::et_off>::convert_to_imp<T>(T *) const' being compiled
+          with
+          [
+              T=bool
+          ]
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/number.hpp(601): note: see reference to function template instantiation 'void boost::multiprecision::number<boost::multiprecision::backends::cpp_int_backend<512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void>,boost::multiprecision::et_off>::convert_to_imp<T>(T *) const' being compiled
+          with
+          [
+              T=bool
+          ]
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\arch\x86\x86Semantics.cpp(2611): note: see reference to function template instantiation 'T boost::multiprecision::number<boost::multiprecision::backends::cpp_int_backend<512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void>,boost::multiprecision::et_off>::convert_to<bool>(void) const' being compiled
+          with
+          [
+              T=bool
+          ]
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\arch\x86\x86Semantics.cpp(2611): note: see reference to function template instantiation 'T boost::multiprecision::number<boost::multiprecision::backends::cpp_int_backend<512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void>,boost::multiprecision::et_off>::convert_to<bool>(void) const' being compiled
+          with
+          [
+              T=bool
+          ]
+C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/cpp_int/misc.hpp(70): warning C4800: 'const boost::multiprecision::limb_type': forcing value to bool 'true' or 'false' (performance warning)
+C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/cpp_int/misc.hpp(70): warning C4804: '+=': unsafe use of type 'bool' in operation
+C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/cpp_int/misc.hpp(70): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/cpp_int/misc.hpp(56): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/cpp_int/misc.hpp(76): note: see reference to function template instantiation 'Integer boost::multiprecision::backends::negate_integer<R>(Integer,const boost::mpl::false_ &) noexcept' being compiled
+          with
+          [
+              Integer=bool,
+              R=bool
+          ]
+  C:\Users\Hachno\Documents\Visual Studio 2015\Projects\tools\boost_1_62_0\boost/multiprecision/number.hpp(585): note: see reference to function template instantiation 'void boost::multiprecision::backends::eval_convert_to<T,512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void>(R *,const boost::multiprecision::backends::cpp_int_backend<512,512,boost::multiprecision::unsigned_magnitude,boost::multiprecision::unchecked,void> &) noexcept' being compiled
+          with
+          [
+              T=bool,
+              R=bool
+          ]
+  x86Specifications.cpp
+  ast.cpp
+  astDictionaries.cpp
+  astGarbageCollector.cpp
+  astPythonRepresentation.cpp
+  astRepresentation.cpp
+  astSmtRepresentation.cpp
+  tritonToZ3Ast.cpp
+  z3Result.cpp
+  Generating Code...
+  Compiling...
+  z3ToTritonAst.cpp
+  init.cpp
+  astCallbacks.cpp
+  tritonCallbacks.cpp
+  initArchNamespace.cpp
+  initAstNodeNamespace.cpp
+  initAstRepresentationNamespace.cpp
+  initCallbackNamespace.cpp
+  initCpuSizeNamespace.cpp
+  initElfNamespace.cpp
+  initOperandNamespace.cpp
+  initRegNamespace.cpp
+  initSymExprNamespace.cpp
+  initSymOptiNamespace.cpp
+  initSyscallNamespace.cpp
+  initVersionNamespace.cpp
+  initX86OpcodesNamespace.cpp
+  initX86PrefixesNamespace.cpp
+  pyAstNode.cpp
+  pyBitvector.cpp
+  Generating Code...
+  Compiling...
+  pyElf.cpp
+  pyElfDynamicTable.cpp
+  pyElfHeader.cpp
+  pyElfProgramHeader.cpp
+  pyElfRelocationTable.cpp
+  pyElfSectionHeader.cpp
+  pyElfSymbolTable.cpp
+  pyImmediate.cpp
+  pyInstruction.cpp
+  pyMemoryAccess.cpp
+  pyPathConstraint.cpp
+  pyRegister.cpp
+  pySolverModel.cpp
+  pySymbolicExpression.cpp
+  pySymbolicVariable.cpp
+  pyXFunctions.cpp
+  utils.cpp
+  callbacks.cpp
+  solverEngine.cpp
+  solverModel.cpp
+  Generating Code...
+  Compiling...
+  pathConstraint.cpp
+  pathManager.cpp
+  symbolicEngine.cpp
+  symbolicExpression.cpp
+  symbolicOptimization.cpp
+  symbolicSimplification.cpp
+  symbolicVariable.cpp
+  taintEngine.cpp
+  abstractBinary.cpp
+C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\format\abstractBinary.cpp(48): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  elf.cpp
+C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\src\libtriton\format\elf\elf.cpp(46): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  elfDynamicTable.cpp
+  elfHeader.cpp
+  elfProgramHeader.cpp
+  elfRelocationTable.cpp
+  elfSectionHeader.cpp
+  elfSymbolTable.cpp
+  memoryMapping.cpp
+  syscallNumberToString.cpp
+  coreUtils.cpp
+  Generating Code...
+  triton.vcxproj -> C:\Users\Hachno\Documents\Visual Studio 2015\Projects\Triton\build\Release\triton.lib
